@@ -1,0 +1,16 @@
+**/.settings/
+**/.classpath
+**/bin
+**/target
+**/.project
+**/.cache-tests
+**/.cache-main
+**/.cache-main
+**/.cache-tests
+**/.idea
+**/*.iml
+**/*.log
+.csv
+.dat
+.txt
+test.*
